@@ -1,0 +1,23 @@
+/* ------------------------------------- */
+
+/* Navbar Styles */
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+}
+
+.footer {
+  background-color: #844;
+  color: #394;
+  justify-content: center;
+  text-align: center;
+  padding: 15px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
