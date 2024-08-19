@@ -37,6 +37,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 We have three next.js applications
 
-Home app - port 3009
-email component app - port 3010
-component app - port 3008
+Home app - port 3009.
+
+email component app - port 3010.
+
+component app - port 3008.
